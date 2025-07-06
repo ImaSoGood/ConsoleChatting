@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTD1//DsklF0u19MvewVXFtB9n1HME+GobrfnRx6Xi7Ny1xoP+rZSsKUqu9RsV27/D2969S+uhWatEVDFRPZcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vova_\\source\\repos\\ConsoleChatting\\ConsoleChatting\\ConsoleChatting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vova_\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\vova_\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\vova_\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\vova_\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

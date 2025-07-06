@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\jsonparcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\jsonparcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\objects\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\objects\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\objects\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\objects\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\objects\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\objects\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|c:\\users\\pc34\\source\\repos\\consolechatting\\consolechatting\\classes\\objects\\systemmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D85DF5-9184-459D-AFD9-91E6B688C985}|ConsoleChatting\\ConsoleChatting.csproj|solutionrelative:consolechatting\\classes\\objects\\systemmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\Message.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\Objects\\Message.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\Message.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\Objects\\Message.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:50:04.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonParcer.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\JsonParcer.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\JsonParcer.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\JsonParcer.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\JsonParcer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:47:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\Chat.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\Objects\\Chat.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\Chat.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\Objects\\Chat.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA2wCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:46:45.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scenario.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\Scenario.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\Scenario.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\Scenario.cs",
+              "RelativeToolTip": "ConsoleChatting\\Scenario.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAlwIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:23:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\Program.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\Program.cs",
+              "RelativeToolTip": "ConsoleChatting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:34:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemMessages.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\SystemMessages.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\Objects\\SystemMessages.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\SystemMessages.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\Objects\\SystemMessages.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:20:13.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\Objects\\User.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Objects\\User.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\Objects\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:39:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Constants.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\Constants.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Constants.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\Constants.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:43:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Requests.cs",
+              "RelativeDocumentMoniker": "ConsoleChatting\\classes\\Requests.cs",
+              "ToolTip": "C:\\Users\\PC34\\source\\repos\\ConsoleChatting\\ConsoleChatting\\classes\\Requests.cs",
+              "RelativeToolTip": "ConsoleChatting\\classes\\Requests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:42:31.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
