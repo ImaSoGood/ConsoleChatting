@@ -9,6 +9,7 @@ namespace ConsoleChatting.classes
     public class Constants
     {
         private const string URL = "http://hundredtries.online/v1/";
+        private const string URL = "*Unshown*";
 
         private string[] URLS = new string[]
         {
