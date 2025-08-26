@@ -8,7 +8,7 @@ namespace ConsoleChatting.classes
 {
     public class Constants
     {
-        private const string URL = "*Unshown*";
+        private const string URL = "**Unshown**";
 
         private string[] URLS = new string[]
         {
